@@ -1,17 +1,1 @@
-GITHUB UPLOAD CHECKLIST
 
-Repository name suggestion: data-structures-question-5-organization-hierarchy
-
-Upload all files/folders from this package.
-
-Required assignment items included:
-[✓] Source code
-[✓] Input data
-[✓] Output
-[✓] Trace table
-[✓] Complexity analysis
-[✓] Comparison table
-[✓] Final conclusion
-[✓] README
-
-After creating the GitHub repository, upload the contents of this folder and copy the repository URL for submission.
